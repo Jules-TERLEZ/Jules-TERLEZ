@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/header-dark.svg" alt="Jules Terlez — GitHub profile header" width="100%" />
+  <img src="Jules-TERLEZ/assets/header-dark.svg" alt="Jules Terlez — GitHub profile header" width="100%" />
 </p>
 
 <p align="center">
