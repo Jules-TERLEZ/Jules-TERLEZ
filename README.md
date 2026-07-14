@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/jules-terlez">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Jules" alt="Hello! I&#39;m Jules" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2A27F5&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Jules" alt="Hello! I&#39;m Jules" />
   </a>
 </p>
 
@@ -8,16 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Data%20Analyst%20at%20SFR" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 Data Analyst Intern @ SFR | SQL, Python, Power BI &amp; data-driven problem solving.  
 Passionate about Data Analytics, Data Engineering, Data Science and AI, building production-ready projects.
 
-🔭 &nbsp;I'm currently working on **Data Analysis**  
-🌱 &nbsp;I'm currently learning **AI Engineering**  
-👯 &nbsp;I'm looking to collaborate on **AI solutions**
+&nbsp;I'm currently working on **Data Analysis**, learning **AI Engineering** and looking to collaborate on **AI solutions**.
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -34,7 +32,7 @@ Passionate about Data Analytics, Data Engineering, Data Science and AI, building
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jules-terlez-3a450a302" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -43,24 +41,18 @@ Passionate about Data Analytics, Data Engineering, Data Science and AI, building
   <a href="https://www.youtube.com/@JulesTERLEZ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jules-terlez&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jules-terlez&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jules-terlez&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/jules-terlez">jules-terlez</a></i></p>
+<p align="center"><i>From <a href="https://github.com/jules-terlez">jules-terlez</a></i></p>
